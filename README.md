@@ -29,3 +29,9 @@ node, mongo, express를 통한 restful api 생성, CRUD 기능 구현
 ***
 
 ![pic1](./pic1.PNG)
+
+
+postman을 이용해 crud를 해보았다.
+
+
+
